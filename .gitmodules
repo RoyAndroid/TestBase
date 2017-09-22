@@ -1,0 +1,3 @@
+[submodule "SCB.APK.COMMON"]
+	path = SCB.APK.COMMON
+	url = http://192.168.1.122:3000/Storageplatform/SCB.APK.COMMON.git
